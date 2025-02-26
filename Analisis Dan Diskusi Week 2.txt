@@ -1,0 +1,33 @@
+	Analisis dan Diskusi Week 2
+
+1. KNN untuk Klasifikasi Objek Berdasarkan Warna (Sederhana)
+- Dasar:
+Menggunakan warna objek untuk mengelompokkannya.
+"Mirip warna = satu kelompok".
+- Cara kerja:
+Ambil "warna rata-rata" objek.
+Cari objek lain dengan "warna rata-rata" paling dekat.
+Kelompokkan objek baru ke kelompok "warna terdekat".
+- Penting:
+Akurasi tergantung pada variasi warna objek.
+
+2. Integrasi Machine Learning (ML) dan Computer Vision (CV)
+- Dasar:
+Membuat komputer bisa "melihat" dan "mengerti" gambar/video.
+ML membantu CV untuk "menganalisis" apa yang dilihat.
+- Contoh:
+Mendeteksi wajah di foto (CV melihat, ML mengenali).
+Mobil otomatis (CV melihat jalan, ML mengambil keputusan).
+- Penting:
+Butuh banyak data dan komputasi yang kuat.
+
+3. Version Control dengan GitHub
+- Dasar:
+Alat untuk "menyimpan" dan "melacak" perubahan kode.
+Memudahkan kerja tim dalam proyek coding.
+- Manfaat:
+Kerja tim lebih rapi.
+Bisa mengembalikan kode ke versi lama.
+Kode aman (ada backup).
+- Penting:
+Wajib bagi pengembang software.
